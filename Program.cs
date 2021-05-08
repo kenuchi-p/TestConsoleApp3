@@ -10,7 +10,8 @@ namespace TestConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello 世界!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("こんにちは、世界!");
 
             Console.ReadLine();
         }
