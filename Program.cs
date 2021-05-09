@@ -13,6 +13,8 @@ namespace TestConsoleApp3
             Console.WriteLine("Hello World!");
             Console.WriteLine("こんにちは、世界!");
 
+            Console.WriteLine("バグ修正");
+
             Console.ReadLine();
         }
     }
