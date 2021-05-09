@@ -5,3 +5,10 @@ C:\WORK\開発\Git\TestConsoleApp3\obj\Debug\TestConsoleApp3.csprojAssemblyRefer
 C:\WORK\開発\Git\TestConsoleApp3\obj\Debug\TestConsoleApp3.csproj.CoreCompileInputs.cache
 C:\WORK\開発\Git\TestConsoleApp3\obj\Debug\TestConsoleApp3.exe
 C:\WORK\開発\Git\TestConsoleApp3\obj\Debug\TestConsoleApp3.pdb
+C:\WORK\開発\Git\GitHub\TestConsoleApp3\bin\Debug\TestConsoleApp3.exe.config
+C:\WORK\開発\Git\GitHub\TestConsoleApp3\bin\Debug\TestConsoleApp3.exe
+C:\WORK\開発\Git\GitHub\TestConsoleApp3\bin\Debug\TestConsoleApp3.pdb
+C:\WORK\開発\Git\GitHub\TestConsoleApp3\obj\Debug\TestConsoleApp3.csprojAssemblyReference.cache
+C:\WORK\開発\Git\GitHub\TestConsoleApp3\obj\Debug\TestConsoleApp3.csproj.CoreCompileInputs.cache
+C:\WORK\開発\Git\GitHub\TestConsoleApp3\obj\Debug\TestConsoleApp3.exe
+C:\WORK\開発\Git\GitHub\TestConsoleApp3\obj\Debug\TestConsoleApp3.pdb
