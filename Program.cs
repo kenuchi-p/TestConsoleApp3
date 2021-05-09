@@ -15,6 +15,8 @@ namespace TestConsoleApp3
 
             Console.WriteLine("バグ修正");
             Console.WriteLine("バグ修正02");
+
+            Console.WriteLine("バグ修正競合a");
             Console.WriteLine("バグ修正競合b");
 
             Console.ReadLine();
